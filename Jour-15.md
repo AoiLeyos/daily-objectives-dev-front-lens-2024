@@ -4,7 +4,7 @@
 
 ### POO (Programmation Orientée Objet) :
 
-- [ ] Est-ce que JS est un langage Orienté Objet ?
+- [x] Est-ce que JS est un langage Orienté Objet ? //c'est un langage prototipal qui a était orienté objet
 - [ ] Comprendre ce qu'est l'abstraction.
 - [ ] Comprendre le principe d'instance.
 - [ ] Comprendre ce qu'est une classe.
