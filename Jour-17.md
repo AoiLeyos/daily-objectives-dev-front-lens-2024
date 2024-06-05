@@ -1,28 +1,29 @@
 # Objectifs Journaliers
 
-## Mercredi 05/06/2024
+## Mercredi 05/06/2024!
 
 ### Node :
 
-- [ ] Installation de NodeJS
-- [ ] Quelle est la différence entre Node et NPM
-- [ ] Découverte de "NPM", "Yarn" et "PNPM"
-  - [ ] Comprendre les différences entre les package managers et en choisir un.
-  - [ ] Comprendre ce qu'est un package Node.
-  - [ ] Savoir faire les commandes de bases :
-    - [ ] Initialiser un projet Node.
+- [x] Installation de NodeJS
+- [x] Quelle est la différence entre Node et NPM. //Node est un executeur et Npm est un gestionnaire de packet.
+- [x] Découverte de "NPM", "Yarn" et "PNPM"
+  - [x] Comprendre les différences entre les package managers et en choisir un.
+  - [x] Comprendre ce qu'est un package Node.
+  - [x] Savoir faire les commandes de bases :
+    - [x] Initialiser un projet Node.// Pnpm init 
       - [ ] Comprendre la structure du fichier `package.json` ([voir ici](https://docs.npmjs.com/cli/v10/configuring-npm/package-json))
     - [ ] Installer un package (local et global)
     - [ ] Désinstaller un package (local et global)
     - [ ] Mettre jour les packages (local et global) et le package manager
-- [ ] Découvrir les linters et formaters
-- [ ] Quelle est la différence entre un linter et un formater
+- [x] Découvrir les linters et formaters.
+- [x] Quelle est la différence entre un linter et un formater. //Un linter va te montré qu'il y a une erreur alors qu'un formaters vas te modifier ton fichier pour le mettre en forme.
 - [ ] Quels sont les principaux outils les plus répandus ?
 - [ ] Est-il préférable de l'installer en global sur la machine ou indépendémment sur chaque projet ?
 - [ ] Qu'est ce que "Nodemon" :
   - [ ] À quoi ça sert ?
-- [ ] Créer son premier "Hello World!" avec Node.
+- [x] Créer son premier "Hello World!" avec Node.
+- [ ] Semantic Versioning.
 
 ### TypeScript
 
-- [ ] Qu'est ce que TypeScript ?
+- [x] Qu'est ce que TypeScript ?// c'est un sur-ensemble de JavaScript, tout le code Java-script est valide en Type-Script, Type script rajouter des fonctionnalitès comme le typage ou la POO, il suffit de compilé avec la comande "tsc NomDuFichier.ts"
