@@ -11,10 +11,10 @@
   - [x] Comprendre ce qu'est un package Node.
   - [x] Savoir faire les commandes de bases :
     - [x] Initialiser un projet Node.// Pnpm init 
-      - [ ] Comprendre la structure du fichier `package.json` ([voir ici](https://docs.npmjs.com/cli/v10/configuring-npm/package-json))
-    - [ ] Installer un package (local et global)
-    - [ ] Désinstaller un package (local et global)
-    - [ ] Mettre jour les packages (local et global) et le package manager
+      - [x] Comprendre la structure du fichier `package.json` ([voir ici](https://docs.npmjs.com/cli/v10/configuring-npm/package-json))
+    - [x] Installer un package (local et global)
+    - [x] Désinstaller un package (local et global)
+    - [x] Mettre jour les packages (local et global) et le package manager
 - [x] Découvrir les linters et formaters.
 - [x] Quelle est la différence entre un linter et un formater. //Un linter va te montré qu'il y a une erreur alors qu'un formaters vas te modifier ton fichier pour le mettre en forme.
 - [ ] Quels sont les principaux outils les plus répandus ?
