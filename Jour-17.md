@@ -17,12 +17,12 @@
     - [x] Mettre jour les packages (local et global) et le package manager
 - [x] Découvrir les linters et formaters.
 - [x] Quelle est la différence entre un linter et un formater. //Un linter va te montré qu'il y a une erreur alors qu'un formaters vas te modifier ton fichier pour le mettre en forme.
-- [ ] Quels sont les principaux outils les plus répandus ?
-- [ ] Est-il préférable de l'installer en global sur la machine ou indépendémment sur chaque projet ?
-- [ ] Qu'est ce que "Nodemon" :
-  - [ ] À quoi ça sert ?
+- [x] Quels sont les principaux outils les plus répandus ?
+- [x] Est-il préférable de l'installer en global sur la machine ou indépendémment sur chaque projet ?
+- [x] Qu'est ce que "Nodemon" :
+  - [x] À quoi ça sert ?
 - [x] Créer son premier "Hello World!" avec Node.
-- [ ] Semantic Versioning.
+- [x] Semantic Versioning.
 
 ### TypeScript
 
